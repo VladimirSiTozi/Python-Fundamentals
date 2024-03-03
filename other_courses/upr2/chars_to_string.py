@@ -1,0 +1,8 @@
+first_char = input()
+second_char = input()
+third_char = input()
+
+# print(f"{first_char}{second_char}{third_char}")
+
+total = first_char + second_char + third_char
+print(total)
